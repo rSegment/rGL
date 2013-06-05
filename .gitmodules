@@ -1,0 +1,3 @@
+[submodule "d-backend"]
+	path = d-backend
+	url = git@github.com:rSegment/d-backend.git
