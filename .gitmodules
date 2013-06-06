@@ -4,3 +4,6 @@
 [submodule "cpp-backend"]
 	path = cpp-backend
 	url = git@github.com:rSegment/cpp-backend.git
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:rSegment/rGL.wiki.git
