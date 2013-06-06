@@ -1,3 +1,6 @@
 [submodule "d-backend"]
 	path = d-backend
 	url = git@github.com:rSegment/d-backend.git
+[submodule "cpp-backend"]
+	path = cpp-backend
+	url = git@github.com:rSegment/cpp-backend.git
